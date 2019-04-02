@@ -56,4 +56,3 @@ class Hello {
 @progh2
 
 ~~밥사기~~
-:
